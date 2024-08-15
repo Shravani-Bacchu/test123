@@ -14,6 +14,7 @@
 		BDF9B10B2C6E2BFB00D75617 /* test123Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF9B10A2C6E2BFB00D75617 /* test123Tests.swift */; };
 		BDF9B1152C6E2BFB00D75617 /* test123UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF9B1142C6E2BFB00D75617 /* test123UITests.swift */; };
 		BDF9B1172C6E2BFB00D75617 /* test123UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF9B1162C6E2BFB00D75617 /* test123UITestsLaunchTests.swift */; };
+		BDF9B1242C6E2C0C00D75617 /* transportationPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF9B1232C6E2C0C00D75617 /* transportationPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BDF9B1102C6E2BFB00D75617 /* test123UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test123UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDF9B1142C6E2BFB00D75617 /* test123UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test123UITests.swift; sourceTree = "<group>"; };
 		BDF9B1162C6E2BFB00D75617 /* test123UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test123UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDF9B1232C6E2C0C00D75617 /* transportationPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transportationPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BDF9B0F92C6E2BFA00D75617 /* test123App.swift */,
 				BDF9B0FB2C6E2BFA00D75617 /* ContentView.swift */,
+				BDF9B1232C6E2C0C00D75617 /* transportationPage.swift */,
 				BDF9B0FD2C6E2BFB00D75617 /* Assets.xcassets */,
 				BDF9B0FF2C6E2BFB00D75617 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDF9B1242C6E2C0C00D75617 /* transportationPage.swift in Sources */,
 				BDF9B0FC2C6E2BFA00D75617 /* ContentView.swift in Sources */,
 				BDF9B0FA2C6E2BFA00D75617 /* test123App.swift in Sources */,
 			);
